@@ -5,21 +5,21 @@ import Qt5Compat.GraphicalEffects
 ApplicationWindow {
     id: main
     visible: true
-    width: 480
-    height: 320
+    width: 640
+    height: 480
     title: 'PMP Glossary Flash Cards'
     
     background: Flipable {
                     id: flipable
-                    width: 240
-                    height: 240
+                    width: 400
+                    height: 400
                     anchors.centerIn: parent
                     
                     property bool flipped: false
 
                     front: Item {
-                            width: 240
-                            height: 240
+                            width: 400
+                            height: 400
 
                             Image {
                                 id: fcard
@@ -40,13 +40,16 @@ ApplicationWindow {
                             }
 
                             Text {
-                                text: "Front Hello";
+                                id: frontContent
+                                text: "Front Content";
+                                width: parent.width
+                                wrapMode: Text.WordWrap
                                 anchors.centerIn: fcard
                             }
                         }
                     back: Item {
-                            width: 240
-                            height: 240
+                            width: 400
+                            height: 400
 
                             Image {
                                 id: bcard
@@ -67,7 +70,10 @@ ApplicationWindow {
                             }
 
                             Text {
-                                text: "Back Hello";
+                                id: backContent
+                                text: "Back Content";
+                                width: parent.width
+                                wrapMode: Text.WordWrap
                                 anchors.centerIn: bcard
                             }
                         }
@@ -87,7 +93,7 @@ ApplicationWindow {
                     }
 
                     transitions: Transition {
-                        NumberAnimation { target: rotation; property: "angle"; duration: 400 }
+                        NumberAnimation { target: rotation; property: "angle"; duration: 300 }
                     }
 
                     MouseArea {
@@ -95,4 +101,23 @@ ApplicationWindow {
                         onClicked: flipable.flipped = !flipable.flipped
                     }
                 }
+    footer: Row {
+                Button {
+                    text: "Prev"
+                    onClicked: termGenerator.decrementIndex()
+                }
+                Button {
+                    text: "Next"
+                    onClicked: termGenerator.incrementIndex()
+                }
+    }
+
+    Connections {
+        target: termGenerator
+        function onUpdateCard(front, back) {
+            frontContent.text = front
+            flipable.flipped = false
+            backContent.text = back
+        }
+    }
 }
