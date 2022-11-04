@@ -25,7 +25,7 @@ class GlossaryTermGenerator(QObject):
     @Slot()
     def incrementIndex(self):
         self.index = self.index + 1
-        if(self.index > len(glossary_list)):
+        if(self.index > len(glossary_list) - 1):
             self.index = 0
         front = glossary_list[self.index][1]
         back = glossary_list[self.index][0]
@@ -35,7 +35,7 @@ class GlossaryTermGenerator(QObject):
     def decrementIndex(self):
         self.index = self.index - 1
         if(self.index < 0):
-            self.index = len(glossary_list)
+            self.index = len(glossary_list) - 1
         front = glossary_list[self.index][1]
         back = glossary_list[self.index][0]
         self.updateCard.emit(front, back)
