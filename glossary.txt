@@ -1,0 +1,664 @@
+80/20 rule - A general guideline with many applications; in terms of controlling processes, it contends that a relatively large number of problems or defects, typically 80%, are commonly due to a relatively small number of causes, typically 20%. See also “Pareto Chart”.
+A/B Testing - A marketing approach used to determine user preferences by showing different sets of users' similar services—an 'Alpha' and a 'Beta' version—with one independent variable.
+Accept - A strategy for managing negative risks or opportunities that involves acknowledging a risk and not taking any action until the risk occurs.
+Acceptance Criteria - A set of conditions that is required to be met before deliverables are accepted.
+Accepted Deliverables - Deliverables that meet the acceptance criteria and have been formally signed off and approved by the customer or sponsor as part of the scope validation process.
+Active Listening - A communication technique that involves acknowledging the speaker's message and the recipient clarifying the message to confirm that what was heard matches the message that the sender intended.
+Activity - A distinct portion of work, scheduled with a beginning and an end, that must be performed to complete work on the project. Also known as a schedule activity. See also “Task”.
+Activity Attributes - Multiple attributes associated with each activity that can be included within the activity list. 
+Activity Cost Estimates - Each task is assigned a budget, and the aggregate of these estimates results in the project budget. Activity cost estimates include labor, materials, equipment, and fixed cost items like contractors, services, facilities, financing costs, etc. This information can be presented in detail or summarized.
+Activity Dependency - A logical relationship that exists between two project activities. The relationship indicates whether the start of an activity is contingent upon an event or input from outside the activity.
+Activity Duration Estimates - The quantitative assessments of the likely number of time periods that are required to complete an activity.
+Activity List - A documented tabulation of schedule activities that shows the activity description, activity identifier, and a sufficiently detailed scope-of-work description so project team members understand what work is to be performed.
+Activity on Arrow or Activity on Node - A graphical diagram on which schedule activities are represented by nodes (rectangle boxes) and their dependencies are depicted by arrows.
+Activity Resource Estimates - Material and human resources that are needed to complete an activity; often expressed by a probability or range.
+Activity Resource Requirements - The resources (physical, human, and organizational) required to complete the activities in the activity list. 
+Actual Cost (AC) - Earned Value Management term for the realized cost incurred for the work performed on an activity during a specific time.
+Adaptive - A type of project life cycle or methodology that values responding to change over following a set plan. Adaptive methodologies seek solutions that deliver maximum value to the customer.
+Administrative Closure - Involves verifying and documenting project results to formalize project or phase completion.
+Affinity Diagram - A technique that allows large numbers of ideas to be classified into groups for review and analysis.
+Affinity Estimating - Technique designed to rapidly estimate large stories (epics or features) in the backlog. For example: T-Shirt sizing, coffee cup sizes, or Fibonacci sequence.
+Agile - Refers to a type of project lifecycle (also known as adaptive) or methodology based on a set of values and principles and characterized by an openness towards change for the promotion of value or benefits delivery for the customer. Also refers to a kind of project or project team that uses a non-binding expectation of what future iteration increment/sprints/iterations (outcomes and/or deliverables) will be combined into releases to the customer. Agile project management certifications include the PMI-ACP® and the Disciplined Agile portfolio of certifications. See also “Agile Manifesto” and “Agile Principles”
+Agile Estimating - An approach that assists with planning a project appropriately from the beginning to ensure the team can focus on the quality of each deliverable.
+Agile Life Cycles - A project life cycle that is iterative or incremental. Also referred to as change-driven or adaptive, they work well in environments with high levels of change and ongoing stakeholder involvement in a project.
+Agile Manifesto - The four core values of agile software development as stated by the Agile Manifesto are: individuals and interactions over processes and tools; working software over comprehensive documentation; customer collaboration over contract negotiation; and responding to change over following a plan. See also “Agile” and “Agile Principles”.
+Agile Modeling - A representation of the workflow of a process or system that the team can review before it is implemented in code. 
+Agile Principles - A set of 12 guidelines that support the Agile Manifesto and which practitioners and teams should internalize and act upon: Customer satisfaction by early and continuous delivery of valuable software, Welcome changing requirements, even in late development, Deliver working software frequently (weeks rather than months), Close, daily cooperation between business and technical people, Projects are built around motivated individuals, who should be trusted, Face-to-face conversation is the best form of communication (colocation), Working software is the primary measure of progress, Sustainable development, able to maintain a constant pace, Continuous attention to technical excellence and good design, Simplicity is essential, Best architectures, requirements, and designs emerge from self-organizing teams, Regularly, the team reflects on how to become more effective, and adjusts accordingly. See also “Agile” and “Agile Manifesto”.
+Agile Release Planning - A process in which a team determines the number of iterations or Sprints that are needed to complete each release, the features that each iteration will contain, and the target dates of each release.
+Agile Space - Team space that encourages colocation, collaboration, communication, transparency, and visibility.
+Agreements - Any documents or communication that defines the initial intentions of a project. Examples include contracts, memorandums of understanding (MOUs), service-level agreements (SLAs), letters of agreement, letters of intent, verbal agreements, email, or other written agreements.
+Allowable Costs - Costs that are allowed under the terms of the contract. Typically, allowable costs become relevant under certain types of cost-reimbursable contracts in which the buyer reimburses the seller's allowable costs.
+Analogous Estimating - A technique for estimating the duration or cost of an activity on a project using historical data from a similar activity or project. Also known as “Top-Down Estimating”.
+Analytical Techniques - Logical approach that looks at the relationship between outcomes and the factors that can influence them. 
+Approved Change Requests - Change requests that have been reviewed and approved by the change control board (CCB) and are ready to be scheduled for implementation.
+Assumption - Anything considered to be true while planning. Assumptions should be documented and validated and are often closely linked to constraints. 
+Assumption and Constraint Analysis - A process that explores the validity of the project assumptions within the constraints and identifies risks from any incompleteness or inaccuracy of these project assumptions.
+Assumption Log - A list of all uncertainties that are treated as true for the purpose of planning.
+Attribute Sampling Data - Data that is counted such as the number of product defects or customer complaints.
+Audit - An examination of a project's goals and achievements, including adequacy, accuracy, efficiency, effectiveness, and the project's compliance with applicable methodologies and regulations. It tends to be a formal, one-sided process that can be extremely demoralizing to team members.
+Autocratic - A group decision-making method in which one member of the group makes the decision. In most cases, this person will consider the larger group's ideas and decisions and will then make a decision based on that input.
+Avoid - A strategy for managing negative risks or threats that involves changing the project management plan to remove the risk entirely by extending the schedule, changing the strategy, increasing the funding, or reducing the scope.
+Backlog - The ordered list of all the work, presented in story form, for a project team. See also “Iteration Backlog”.
+Backward Pass - Technique for calculating the late start and late finish dates of the schedule activities. This is part of the critical path method and is paired with forward pass to determine activity and schedule float along with the critical path. See also "Forward Pass".
+Bar Chart - A graphic display of schedule-related information. In the typical bar chart, schedule activities or WBS components are listed down the left side of the chart, dates are shown across the top, and activity durations are shown as date-placed horizontal bars. See also “Gantt Chart”.
+Baseline - Original objectives plus approved change requests for scope, schedule, cost, and resources required to finish the project. Baselines represent the approved plan, and they are useful for measuring how actual results deviate from the plan. 
+Benchmarking - The comparison of actual or planned products, processes, and practices to those of comparable organizations to identify best practices, generate ideas for improvement, and provide a basis for measuring performance.
+Benefit Cost Analysis - A financial analysis tool used to determine the benefits provided by a project against its costs.
+Benefit Cost Ratio (BCR) - The ratio of the expected benefits and the anticipated costs. 
+Benefits Management Plan - The documented explanation defining the processes for creating, maximizing, and sustaining the benefits provided by a project or program. It also describes how and when the benefits of a project will be derived and measured.
+Bidder Conferences - The meetings with prospective sellers prior to the preparation of a bid or proposal to ensure all prospective vendors have a clear and common understanding of the procurement. Also called vendor conferences, pre-bid conferences, or contractor conferences.
+Bottom-Up Estimating - A method of estimating project duration or cost by aggregating the estimates of the lower- level components of the WBS.
+Brainstorming - A simple technique used to generate a list of ideas. It should be led by a facilitator with a group consisting of stakeholders, team members, and subject matter experts. After quickly generating a list of alternatives, the group then performs analysis of the alternatives and generally chooses a particular option for action.
+Breach of Contract - The failure to meet some or all the obligations of a contract.
+Budget - A time-phased plan for when funds will be disbursed on a project. It helps the organization anticipate when money will be coming in and/or going out, for the duration of the project. Budget accuracy is dependent upon a well-defined project scope and schedule. The total project budget is the cost baseline plus management reserves. See also “Cost Baseline”. 
+Budget at Completion (BAC) - The sum of all budgets established to provide financial support for the work to be performed. 
+Buffer - A planning term related to contingency. See also “Reserve”.
+Burn Chart - A tool that is used to track the progress of the project by plotting the number of days of sprint against the number of hours of work remaining. A chart used to communicate progress during and at the end of an iteration/sprint/ increment. It shows the number of stores that have been completed and the ones that remain. The concept is as the project progresses over time, the backlog of work will “burn down”/lessen.
+Burn Rate - The rate at which the project consumes financial resources, representing negative cash flow. Burn rates are often used by agile projects to budget costs for planned iterations/sprints/increments. 
+Business Case - A documented economic feasibility study used to establish the validity of the benefits of a selected component lacking sufficient definition and that is used as a basis for the authorization of further project management activities.
+Business Document - An input that includes the business case for the project and the benefits management plan. 
+Business Risk - The inherent risk in any business endeavor that carries the potential for either profit or loss. Types of business risks are competitive, legislative, monetary, and operational.
+Business Value - The net quantifiable benefit derived from a business endeavor. The benefit may be tangible, intangible, or both.
+Capability Maturity Model Information (CMMI) - The CMMI provides a framework for the integration of process improvement for multiple process areas. Associated with quality management.
+Cause and Effect Diagram - This diagram shows the relationship between causes and effects. Primarily used in root cause analysis (risk and quality) to uncover the causes of risks, problems, or issues. See also “Fishbone Diagram” and “Ishikawa Diagram”.
+Cease and Desist Letter - A legal document sent to an individual or a business with the direct intention of stopping specific activities and preventing their occurrence or recurrence.
+Certified Associate in Project Management (CAPM) - PMI® Certification that offers recognition to practitioners who are interested in or are just starting a career in project management, as well as project team members who wish to demonstrate their project management knowledge. This certification denotes that the individual possesses the knowledge in the principles and terminology of A Guide to the Project Management Body of Knowledge (PMBOK® Guide), which outlines generally recognized good practices in project management. 
+Change Control - Purposeful management of changes to the project (scope, schedule, cost, or quality). In change control, a change request goes through a formal process before a decision (approve/deny) is made. 
+Change Control Board (CCB) - A formally chartered group responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project and for recording and communicating such decisions.
+Change Control Form - A document used to request a project change. They can also be recommendations for taking corrective or preventive actions. See also “Change Request”.
+Change Control System - A set of procedures that describes how modifications to the project deliverables and documentation are managed and controlled.
+Change Log - A living list of all project change requests (CR). This log is used to track and provide accurate status of each CR (requester, owner, details, impact analysis, decision, etc.) 
+Change Management - The process of managing project changes in a structured and standardized manner.
+Change Management Plan - A component of the project management plan that establishes the Change Control Board, documents the extent of its authority, and describes how the change control system will be implemented.
+Change Request (CR) - Request for change sent to upper management or the Change Control Board (CCB) for its evaluation and approval. See also “Change Control Form”.
+Charter - A shortened name for the project charter. A formal document that starts the project. Typically used by the project sponsor and the project manager, this document provides the reason for the project (based on business case) and may include high-level requirements, assumptions, constraints, milestone(s), and preliminary budget. See also “Project Charter”.
+Checklist - A set of procedural instructions used to ensure that a product or component quality is achieved. 
+Checklist Analysis - A technique for systematically reviewing materials using a list for accuracy and completeness. 
+Claim - An issue with the contract brought by one party against another. Claims must be resolved before the contract can be properly closed out. 
+Close Project or Phase Process - The process of finalizing all activities for the project, phase, or contract.
+Close-Out Meetings - Sessions held at the end of a project or phase during which teams discuss work and capture lessons learned.
+Closing Process Group - One of the five Project Management Process Groups. It consists of those processes performed to formally complete or close the project, phase, or contract. 
+Coach - An agile servant leader role that exists to help the team and identify and remove any impediments (obstacles). 
+Coaching - The act of giving guidance and direction to another person to facilitate personal and/or professional growth and development. 
+Code of Accounts - A numbering system used to uniquely identify each component of the WBS.
+Code of Ethics and Professional Conduct - A PMI® published body of knowledge that describes the ethical, professional behavior and expectations of an individual working as a project management professional (PMP®). 
+Collaboration - The act of working together and sharing information to create deliverables, work products or results. 
+Collect Requirements Process - The process in which requirements documentation is developed. Precedes the Define Scope process. 
+Colocation - An organizational placement strategy in which the project team members are physically located close to one another to improve communication, working relationships, and productivity.
+Common Cause - A reason contributing to a quality problem that is usually considered acceptable. Common causes are considered unpreventable or if they are preventable, the cost of prevention would not justify the benefit. Opposite of “Special Cause”. 
+Communication - Act of accurately encoding, sending, receiving, decoding, and verifying messages. Communication between sender and receiver may be oral or written, formal or informal. 
+Communication Channels - The number of possible communication paths on a project. The formula for calculating communication channels is: [n(n-1)]/2; n=number of people on the project.
+Communication Method - A systematic procedure, technique, or process used to transfer information among project stakeholders.
+Communication Models - A description, analogy, or schematic used to represent how the communication process will be performed for the project.
+Communication Requirements Analysis - An analytical technique to determine the information needs of the project stakeholders through interviews, workshops, or study of lessons learned from previous projects, etc.
+Communication Styles Assessment - A technique to identify the preferred communication method, format, and content for stakeholders for planned communication activities. 
+Communication Technology - Specific tools, automated systems, computer programs, etc., used to transfer information among project stakeholders.
+Communications Management Plan - A component of the project, program, or portfolio management plan that describes how, when, and by whom information about the project will be administered and disseminated.
+Completion Contract - A type of contract that is completed when the vendor delivers the product to the buyer and the buyer accepts the product.
+Compliance - The state of meeting—or being in accord with—organizational, legal, certification or other relevant regulations. 
+Compromise - An option in conflict management in which both parties give up something to reach an agreement. 
+Conduct Procurement Process - The process of obtaining seller responses, selecting a seller, and awarding a contract. 
+Cone of Uncertainty - Agile term describing the difficulty of estimating early due to unknowns and how that should improve over time. 
+Configuration Item - Any component or project element that needs to be managed to ensure the successful delivery of the project, services, or result. 
+Configuration Management - A tool used to manage changes to a product or service being produced as well as changes to any of the project documents—for example, schedule updates.
+Configuration Management Plan - A component of the project management plan that describes how to identify and account for project artifacts under configuration control and how to record and report changes to them.
+Configuration Management System - A collection of procedures used to track project artifacts and monitor and control changes to these artifacts.
+Conflict - Difference of opinion or agenda on a project amongst team members, stakeholders, or customers. 
+Conflict Management - The application of one or more strategies for dealing with disagreements that may be detrimental to team performance.
+Conflict Resolution - The process of working to reach an agreement after a conflict situation arises. 
+Consensus - Group decision technique in which the group agrees to support an outcome even if the individuals do not agree with the decision. 
+Constraint - An external factor that limits the ability to plan. Constraints and assumptions are closely linked. 
+Context Diagram - A visual depiction of the product scope showing a business system (process, equipment, computer system, etc.), and how people and other systems (actors) interact with it.
+Contingency Plan - A risk response strategy developed in advance, before risks occur; it is meant to be used if and when identified risks become reality.
+Contingency Reserve - Time or money allocated in the schedule or cost baseline for known risks with active response strategies.
+Contingency Theory - A theory credited to Fred. E. Fielder which states that the set of skills and attributes that helped a project manager in one environment may work against them in another environment. 
+Continuous Improvement (CI) - The ongoing effort to improve products, services, or processes.
+Continuous Integration - The practice of regularly merging all software code into a shared environment, several times a day, to check code quality and functionality.
+Continuous Process Improvement - The systematic, ongoing effort to improve products, services, or processes in an organization. 
+Contract - A mutually binding agreement that obligates the seller to provide the specified project or service or result and obligates the buyer to pay for it.
+Contract Change Control System - The system used to collect, track, adjudicate, and communicate changes to a contract.
+Control Account - A management control point at which scope, budget, actual cost, and schedule are integrated and compared to earned value for performance measurement.
+Control Charts - A graphic display of process data over time and against established control limits, which has a centerline that assists in detecting a trend of plotted values toward either control limit. These charts are often associated with control limits, specification limits, means, and standard deviation. Control charts are used to analyze and communicate the variability of a process or project activity over time. See also “Variability Control Charts”. 
+Control Costs Process - Monitor and control project costs to ensure they align with the cost baseline/budget.
+Control Procurements Process - Part of the Monitoring and Controlling Process Group, this process is performed by the buyer to ensure compliance by the seller and the other party; it compares the terms in the agreement/contract. 
+Control Quality Process - Part of the Monitoring and Controlling Process Group, this process focuses on the quality of deliverables.
+Control Resources Process - Part of the Monitoring and Controlling Process Group, this process ensures that the flow and usage of physical resources line up with the plan.
+Control Schedule Process - Part of the Monitoring and Controlling Process Group, this process compares the planned work to the actual work.
+Control Scope Process - Part of the Monitoring and Controlling Process Group, this process ensures that changes to scope are properly controlled.
+Controlling PMO - A type of PMO that provides support and requires compliance through various means. Compliance may involve adopting project management frameworks or methodologies; using specific templates, forms, and tools; or conformance to governance.
+Corrective Action - Steps (action) to bring future results in line with the plan; this can change the plan or the way the plan is being executed.
+Cost Aggregation - Summing the lower-level cost estimates associated with the various work packages for a given level within the project's WBS or for a given cost control account.
+Cost Baseline - The approved version of the time-phased project budget, excluding any management reserves, which can be changed only through formal change control procedures and is used as a basis for comparison to actual results. See also “Budget”.
+Cost Forecast - Cost estimates adjusted based on performance—i.e., Estimate at complete, budget at completion, estimate to complete, etc.
+Cost Management Plan - A component of a project or program management plan that describes how costs will be planned, structured, and controlled.
+Cost of Conformance - The money spent during a project to avoid failures. This includes prevention costs that build a quality product and appraisal costs that assess the quality.
+Cost of Non-Conformance - The money spent after a project is complete because of failures. This includes internal and external failure costs.
+Cost of Quality (CoQ) - All costs incurred over the life of the product by investment in preventing nonconformance to requirements, appraisal of the product or service for conformance to requirements, and failure to meet requirements.
+Cost Performance Index (CPI) - A measure of the cost efficiency of budgeted resources expressed as the ratio of earned value to actual cost.
+Cost Plus Award Fee (CPAF) contract - A category of contract that involves payments to the seller for all legitimate actual costs incurred for completed work, plus an award fee representing seller profit.
+Cost Plus Fixed Fee (CPFF) contract - A type of cost-reimbursable contract in which the buyer reimburses the seller for the seller's allowable costs (allowable costs are defined by the contract) plus a fixed amount of profit (fee).
+Cost Plus Incentive Fee (CPIF) contract - A type of cost-reimbursable contract in which the buyer reimburses the seller for the seller's allowable costs (allowable costs are defined by the contract), and the seller earns its profit if it meets defined performance criteria.
+Cost Variance (CV) - The amount of budget deficit or surplus at a given point in time, expressed as the difference between the earned value and the actual cost.
+Cost-Benefit Analysis - A cost-benefit analysis allows project managers to compare if the benefits of an action outweigh the costs or, conversely, if the costs outweigh the benefits. This can be an important criterion in decision making.
+Cost-Reimbursable Contract - A type of contract involving payment to the seller for the seller's actual costs, plus a fee typically representing the seller's profit.
+Crashing - Applying additional resources to one or more tasks/activities to complete the work more quickly. Crashing usually increases costs more than risks. In comparison, fast-tracking increases risks. See also “Fast Tracking”.
+Create WBS Process - A planning processes that involves creating the work-break-down (WBS) structure, along with the WBS dictionary. This process produces the schedule baseline, which consists of the WBS, WBS dictionary and the scope statement. The scope statement is produced from the Define Scope process.
+Critical Path - The sequence of activities that represents the longest path through a project, which determines the shortest possible duration.
+Critical Path Activity - Any activity on the critical path in a project schedule.
+Critical Path Method (CPM) - A technique of schedule analysis in which the schedule activities are evaluated to determine the float or slack for each activity and the overall schedule. To calculate critical path, use the forward and backward pass along with float analysis to identify all network paths, including critical. 
+Cultural Awareness - Understanding the cultural differences of the individuals, groups, and organizations in the project stakeholder community to adapt communication strategies to avoid or reduce miscommunication and misunderstandings.
+Customer - The individual or organization that will accept the deliverable(s) or product. Customers can be internal organizational groups or external to an organization.
+Daily Standup - A short, 15-minute meeting in which the complete team gets together for a quick status update while standing in a circle. Also referred to as a “daily scrum” or “standup”.
+Data - Refers to gathered empirical information, especially facts and numbers. 
+Data Analysis - The act of scrutinizing facts and numbers for typical purposes of decision-making, verification, validation, or assessment.
+Data Gathering - Techniques used to solicit and document ideas—i.e., brainstorming, interviews, focus groups, questionnaires, surveys, and so on.
+Data Representation - A way of depicting data visually to aid in its communication/comprehension to various audiences. 
+De Facto Regulations - Regulations that are widely accepted and adopted through use.
+De Jure Regulations - Regulations that are mandated by law or have been approved by a recognized body of experts.
+Debriefing - An informal, collaborative means of discussing the positives and the negatives of a project, what worked, and what will be done differently next time. This discussion includes technology issues, people issues, vendor relationships, and organizational culture. 
+Decision Making - The process of selecting a course of action from among multiple options.
+Decision Tree Analysis - A diagramming and calculation technique for evaluating the implications of a chain of multiple options in the presence of uncertainty.
+Decomposition - A technique used for dividing and subdividing the project scope and project deliverables into smaller, more manageable parts.
+DEEP - An acronym used in agile projects that describes desirable attributes of a product backlog. Stands for: Detailed, Estimable, Emergent and Prioritize. 
+Define Activities Process - Part of the Planning Process Group, this process defines the activities (tasks) necessary to complete work packages/stories.
+Define Scope Process - Part of the Planning Process Group, this process produces the scope statement that depicts a detailed and complete understanding of the projects vision.
+Definition of Done (DoD) - A team's checklist of all the criteria required to be met so that a deliverable can be considered ready for customer use.
+Definition of Ready (DoR) - A team's checklist for a user-centric requirement that has all the information the team needs to be able to begin working on it.
+Deliverable - Any unique and verifiable product, result, or capability used to perform a service and that is required to be produced to complete a process, phase, or projects. See also "Product".
+Delphi Technique - A form of gathering expert opinions in which members of a group are asked or polled anonymously. 
+Demo - A review at the end of each iteration with the Product Owner and other customer stakeholders to review the progress of the product, get early feedback, and review an acceptance from the Product Owner of the stories delivered in the iteration. See also “Sprint Review”.
+Dependency - A relationship between one or more tasks/activities. A dependency may be mandatory or discretionary, internal or external. See also “start-to-start”; “start-to-finish”; “finish-to-start”; and “finish-to-finish”.
+Design for X (DfX) - A set of technical guidelines that may be applied during the design of a product for the optimization of a specific aspect of the design. DfX can control or even improve the product's final characteristics.
+Design of Experiments (DoE) - A data analysis technique to determine the optimal condition; typically used with multiple variables.
+Determine Budget Process - Part of the Planning Process Group, this process produces the cost baseline/project budget.
+Develop Project Charter - Part of the Initiating Process Group, this process produces the project charter, which officially starts the project.
+Develop Project Management Plan Process - A planning process which is a guide on how the project will be managed. It is composed of 19 components.
+Develop Schedule Process - Part of the Planning Process Group, this process arranges activities to create the schedule baseline.
+Develop Team Process - Part of the Executing Process Group, this process enhances and empowers the team to improve teamwork and individual skills.
+Diagramming Techniques - Various means of depicting a system or virtual concept such as a business or process flow that indicate entities, relationships, and interactions.
+Dictatorship - A group decision technique in which one person makes the decision for the entire group.
+Direct and Manage Project Work Process - A Monitoring and Controlling process that reviews the entire project and analyzes what is planned vs. actual (with schedule forecast and cost forecast as an input) to determine the overall project status.
+Direct Cost - Costs that are reported against the project, which may include salaries for resources, materials, and other expenses. It does not include shared expenses or overhead expenses.
+Directions of Influence - A classification model that groups stakeholders based on how they influence the project: upwards (senior management); downwards (team or specialists); outwards (external); sidewards (project manager's peers); and prioritization.
+Directive PMO - A type of PMO that takes control of projects by directly managing the projects.
+Disaggregation - Breaking down epics or large stories into smaller stories. This is similar to decomposition on predictive projects.
+Disciplined Agile - A “toolkit” of agile practices that helps project team leaders focus on decision-making, options, and advantages or disadvantages of using each. It combines strategies from Scrum, Kanban, SAFe®, and many other approaches in a tailorable and scalable manner. 
+Discretionary Dependency - A relationship that is established based on knowledge of best practices within a particular application area or an aspect of the project in which a specific sequence is desired.
+Document Analysis - A technique used to gain project requirements from current document valuation.
+Duration - Amount of time needed to complete an activity/task or work package.
+Early Finish - Used in a networking diagram, this represents the earliest date that the activity can finish. 
+Early Start - Used in a networking diagram, this represents the earliest date that the activity can start.
+Earned Value (EV) - A measure of work performed expressed in terms of the budget authorized for that work.
+Earned Value Management (EVM) - A methodology that combines scope, schedule, and resource measurements to assess project performance and progress.
+EEF - Any or all environmental factors either internal or external to the project that can influence the project's success. Enterprise Environmental Factors (EEFs) include culture, weather conditions, government regulations, political situation, market conditions, and so on.
+Effect-Based Risk Classification - A way of analyzing the major risks inherent to a project that could have an impact on its success. These major risks include time, cost, quality, and scope.
+Effort - The number of labor units required to complete a scheduled activity or WBS component, often expressed in hours, days, or weeks. 
+Elapsed Time - The actual calendar time required for an activity from start to finish.
+Emotional Intelligence (EI) - The ability to identify, assess, and manage the personal emotions of oneself and other people, as well as the collective emotions of groups of people. EQ (emotional quotient) is also a commonly used abbreviation.
+Empowerment - An essential attribute of agile teams to enable localized decision-making capabilities. The quality of granting or being granted, nurturing, or motivating a team member or team to exercise one's own knowledge, skill, and ability—or that of a team.
+Engagement Roadmap - Abbreviation of “stakeholder engagement roadmap” - a guideline based on the stakeholder analysis that sets forth processes for engaging with stakeholders at current and all future states of the project.
+Enhance - A strategy for managing positive risks or opportunities that involves increasing the probability that the opportunity will happen, or the impact it will have by identifying and maximizing enablers of these opportunities.
+Enterprise Environmental Factors (EEF) - Conditions outside the immediate control of the team, and that influence, constrain, or direct the project, program, or portfolio.
+Epic - A block of work with one common objective, such as a feature, customer request or business requirement. A helpful way to organize work and create a hierarchy, epic helps teams break their work down, while continuing to work towards a bigger goal. 
+Escalate - The act of seeking helpful intervention in response to a threat that is outside the scope of the project or beyond the project manager's authority. 
+Estimate - A number, figure, or representation that denotes cost or time.
+Estimate Activity Durations Process - A planning process that determines the estimate time needed to complete a work package and/or activity.
+Estimate Activity Resources Process - Part of the Planning Process Group, this process estimates the materials and human resources needed to perform the project activities.
+Estimate at Completion (EAC) - The expected total cost of completing all work expressed as the sum of the actual cost to date and the estimate to complete.
+Estimate Costs Process - Part of the Planning Process Group, this process determines the financial estimate for each work package and/or activity
+Estimate to Complete (ETC) - The expected cost of finishing all the remaining project work.
+Executing Process Group - One of the five Project Management Process Groups. It consists of those processes performed to complete the work defined in the project management plan to satisfy the project requirements. 
+Exit Gate - Logical point at the end of a project phase at which an independent party and/or relevant stakeholders reviews that phase's deliverables to determine whether or not they were completed successfully, and the subsequent project phase should be initiated. Used in predictive or traditional projects. See also “Kill Point”.
+Expectancy Theory - Motivational theory which proposes that the team makes choices based on the expected outcome. 
+Expected Monetary Value (EMV) - A method of calculating the average outcome when the future is uncertain. Opportunities will have positive values and threats will have negative values.
+Expert Judgment - Judgment provided based upon expertise in an application area, knowledge area, discipline, industry, etc., as appropriate for the activity being performed. Such expertise may be provided by any group or person with specialized education, knowledge, skill, experience, or training.
+Explicit Knowledge - Knowledge that can be codified using symbols such as words, numbers, and pictures. This type of knowledge can be easily documented and shared with others.
+Exploit - A strategy for managing positive risks or opportunities that involves attempting to make sure that the opportunity happens.
+External Dependency - Types of activity dependencies that exist between project activities and non-project activities and can be out of the project's control.
+Extreme Programming (XP) - Disciplined agile methodology in which iterations last for one week and programmers work in pairs.
+Facilitated Workshops - Organized working sessions held by project managers to determine a project's requirements and to get all stakeholders together to agree on the project's outcomes.
+Facilitation - A skill used to lead or guide an assembled group toward a successful conclusion such as making a decision or finding a solution.
+Fast Tracking - A schedule compression technique in which activities or phases normally done in sequence are performed in parallel for at least a portion of their duration. See also “Crashing”.
+Feature - A group of stories that delivers value to the customer.
+Fibonacci Sequence - A mathematical sequence in which the value of each number is derived from the sum of the two preceding numbers. Used in agile estimating or relative estimating techniques, such as planning poker. 0,1,1,2,3,5,8,13,21,34,55,89,144... Simplified sequence: 0,1,2,35,8,13,20,40,100.
+Final Report - A summary of the project's information on performance, scope, schedule, quality, cost, and risks. 
+Finish-to-Finish (FF) - A logical relationship in which a successor activity cannot finish until a predecessor activity has finished.
+Finish-to-Start (FS) - A logical relationship in which a successor activity cannot start until a predecessor activity has finished.
+Firm Fixed Price Contract (FFP) - A type of fixed price contract in which the buyer pays the seller a set amount (as defined by the contract), regardless of the seller's costs.
+Fishbone Diagram - See “Cause and Effect Diagram”.
+Fixed Price Contract - An agreement that sets the fee that will be paid for a defined scope of work regardless of the cost or effort to deliver it.
+Fixed Price Incentive Fee (FPIF) contract - A type of contract in which the buyer pays the seller a set amount (as defined by the contract), and the seller can earn an additional amount if the seller meets defined performance criteria.
+Fixed Price with Economic Price Adjustment (FPEPA) contract - A fixed-price contract, but with a special provision allowing for pre-defined final adjustments to the contract price due to changed conditions, such as inflation changes, or cost increases (or decreases) for specific commodities.
+Float - Also called slack. See also “Total Float” and “Free Float”.
+Focus Groups - An elicitation technique that brings together pre-qualified stakeholders and subject matter experts to learn about their expectations and attitudes about a proposed product, service, or result. 
+Forward Pass - Technique for calculating the early start and early finish dates of the schedule activities. This is part of the critical path method and is paired with backward pass to determine activity and schedule float along with the critical path. See also “Backward Pass”.
+Free Float - The amount of time that a schedule activity can be delayed without delaying the early start date of any successor or violating a schedule constraint. See also “Float” and “Total Float”.
+Functional Manager - Supervisory organizational role in a specialized area or department.
+Functional Organization - An organizational structure in which staff is grouped by areas of specialization and the project manager has limited authority to assign work and apply resources.
+Functionality - In an agile context, an action that the system performs that adds value to the customer/user. 
+Funding Limit Reconciliation - The process of comparing the planned expenditure of project funds against any limits on the commitment of funds for the project to identify any variances between the funding limits and the planned expenditures.
+Gantt Chart - A bar chart of schedule information on which activities are listed on the vertical axis, dates are shown on the horizontal axis, and the activity durations are shown as horizontal bars placed according to start and finish dates. See also "Bar Chart"
+Generalizing Specialist - Refers to a project team member who has a particular area of deep expertise but also has experience in many other areas that may not be directly related to their core area. These team member types are valued on agile projects because of their ability to be interchangeable. 
+Gold Plating - Adding more scope than the customer requested and/or that the team planned for.
+Grooming - Cleaning up the backlog through various activities such as removing, reprioritizing, disaggregating, or estimating.
+Group Decision Techniques - Team working techniques to move a group towards consensus or decision. Examples are unanimity, majority, plurality, and dictatorship.
+Hardening Iteration/Iteration H - Specialized increment/iteration/sprint dedicated to stabilizing the code base so that it is robust enough for release. No new functionality is added. Primarily used for refactoring and/or technical debt.
+Herzberg's Motivation-Hygiene Theory - In 1959, behavioral scientist Frederick Herzberg proposed that 'hygiene' or environmental factors can cause workers to feel satisfied or unsatisfied with their job and this factor affects their performance. The theory also proposes that a worker's independent drive associated with motivation also affects performance and that workers respond to feelings of connection with their work. Therefore, leaders should encourage workers to accept more authority as well as promote feedback. Also known as Two Factor Theory, Herzberg's Motivation Theory, and The Dual Structure Theory.
+Histogram - A column chart that shows frequency of occurrence of a particular item.
+Historical Information - Archived information from previous projects that can be used for a multitude of reasons, including estimating cost, schedule, resources, and lessons learned. 
+Ideal Time - An estimation technique that refers to the time it would take to complete a given task assuming neither interruptions nor unplanned problems arise.
+Identify Risks - Performed throughout the project, this is the process of identifying individual project risks as well as sources of overall project risk and documenting their characteristics. The key benefit of this process is the documentation of existing individual project risks and the sources of overall project risk. It also brings together information so the project team can respond appropriately to identified risks. 
+Identify Stakeholders - Performed periodically, throughout the project as needed, this is the process of identifying project stakeholders regularly and analyzing and documenting relevant information regarding their interests, involvement, interdependencies, influence, and potential impact on project success. The key benefit of this process is that it enables the project team to identify the appropriate focus for engagement of each stakeholder or group of stakeholders. 
+Impediment - An obstacle that prevents the team from achieving its objectives.
+Implement Risk Response Process - A part of the Executing Process Group, this is the process of implementing agreed-upon risk response plans. The key benefit of this process is that it ensures that agreed-upon risk responses are executed as planned to address overall project risk exposure, minimize individual project threats, and maximize individual project opportunities. This process is performed throughout the project.
+Increment - A functional, tested, and accepted deliverable that is a subset of the overall project outcome. 
+Incremental Delivery - Agile concept that the functionality should be delivered in small pieces or stages rather than as a complete solution.
+Incremental Life Cycle - An adaptive project life cycle in which the deliverable is produced through a series of iterations that successively add functionality within a predetermined time frame. The deliverable contains the necessary and sufficient capability to be considered complete only after the final iteration.
+Independent Estimates - Estimates generated by experts outside the project for the purposes of comparing them with those made by the team.
+Indirect Costs - A cost usually tracked as part of a contract, that is not expended directly for the project's benefit. 
+Influence Diagram - Used in quality management decisions. A chart showing how a set of influences may affect outcomes.
+Influence/Impact Grid - Used in stakeholder management. A classification model that groups stakeholders on the basis of their involvement in and impact on the project.
+Influencing - The act of presenting a good case to explain why an idea, decision, or problem should be handled a certain way, without resistance from other individuals.
+Information - Data that has been analyzed, organized, and processed to make it more meaningful. 
+Information Management - A system to allow the team to collaborate, share, and capture project work.
+Information Management System - A way to collect, manage, and distribute project information.
+Information Radiator - The generic term for visual displays placed in a visible location so everyone can quickly see the latest information. Also known as “Big Visible Chart” in agile.
+Initiating Progress Group - One of the five Project Management Process Groups. It includes the process(es) performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase. 
+Input - Something needed or used by a process to create the process output.
+Inspection - Reviewing the functionality or suitability of a product, service, or result against the plan (requirements/story).
+Insurable Risk - A risk that has only the potential for loss and no potential for profit or gain. An insurable risk is one for which insurance may be purchased to reduce or offset the possible loss. Types of insurable risks are direct property, indirect property, liability, and personnel related.
+Interactions - In an agile context, this generally refers to face-to-face conversations between members, customers, and stakeholders.
+Interactive Communication - An exchange of information between two or more individuals that ensures common understanding for everyone participating in that exchange.
+Internal Dependency - A type of activity dependency that exists between project activities and is usually under the project's control.
+Internal Rate of Return (IRR) - The interest rate that makes the net present value of all cash flow equal to zero. This rate is a function of the cost of capital for project implementation.
+Interpersonal Skills - Skills used to establish and maintain relationships with other people or stakeholders.
+Interview - A formal or informal approach to elicit information from stakeholders by talking with them directly.
+INVEST - Acronym describing the desirable attributes of a good story. Stands for: Independent, Negotiable, Valuable, Estimable, Small and Testable.
+Invitation for Bid (IFB) - A type of procurement document that is most commonly used when deliverables are commodities for which there are clear specifications and when the quantities are very large. The invitation is usually advertised, and any seller may submit a bid. Negotiation is typically not anticipated. These are sometimes used interchangeably with RFPs. Generally, this term is equivalent to request for proposal. However, in some application areas, it may be a narrower or more specific meaning.
+Ishikawa Diagram - See “Cause and Effect Diagram”.
+Issue - A current condition or situation that may have an impact on the project objectives.
+Issue Log - A document in which information about issues is recorded and monitored. It is accessible to all project team members.
+Iteration - A timeboxed cycle of development on a product or deliverable in which all the work needed to deliver value is performed.
+Iteration Backlog - The work that is committed to be performed during a given iteration. See also "Iteration Backlog"
+Iterative Life Cycle - A project life cycle in which the project scope is generally determined early in the project life cycle, but time and cost estimates are routinely modified as the project team's understanding of the product/service increases. Iterations progressively develop the product/service through a series of repeated cycles, while increments successively add to the functionality of the product/service.
+Job Shadowing - Techniques used to gain knowledge of a specific job role, task, or function to understand and determine project requirements. See also “Observations”.
+Joint Application Design (JAD) - Specialized workshops that include both SMEs and the development team together to discuss and improve on the software development process.
+Kaizen - A management concept adapted by the project management community which refers to project activities that continuously improve all project processes. It usually involves all stakeholders. The concept originated in Japan and generally involves “change for the better” or “continuous improvement”. 
+Kanban - Japanese management philosophy that means “signal”. This philosophy focuses on promoting visibility of the work in progress (WIP) and limiting the amount of WIP that the team allows.
+Kanban Board - A visualization tool that enables improvements to the flow of work by making bottlenecks and work quantities visible. It is a popular framework used to implement agile and DevOps software development. Also referred to as a signboard.
+Key Performance Indicator (KPI) - A set metric used to evaluate a project, an organizational unit, or a project team's performance against the project vision and objectives. KPI can be time bound.
+Kill Point - The stage gate or phase review point. At this point, the progress of the project is evaluated and a decision is made whether to continue or cancel the project. A set of criteria may be developed to assist with the decision to be made. See also “Exit Gate”.
+Knowledge Area - An identified area of project management defined by its knowledge requirements and described in terms of its component processes, practices, inputs, outputs, tools, and techniques. The knowledge areas intersect with the five respective Project Management Process Groups. Although the Knowledge Areas are interrelated, ten are defined separately in the Project Management Body of Knowledge (PMBOK®)
+Knowledge Management - A business area dedicated to connecting individuals to shared knowledge and general collaboration on project work. The modality used for connection can be face-to-face and/or virtual.
+Lag - Refers to the amount of time whereby a successor activity will be delayed with respect to a preceding activity on the critical path.
+Late Finish - The latest date an activity can finish, without delaying the finish of the project.
+Late Start - The latest that a project activity can start without having to reschedule the calculated early finish of the project.
+Lead - The amount of time whereby a successor activity can be advanced with respect to predecessor activity.
+Leadership - The ability to guide others to achieve results. Leadership abilities are gained through experience, building relationships, and taking on initiatives.
+Leading - The act of establishing direction, aligning the team to a vision, and inspiring/motivating them to achieve a project's objectives.
+Lean - An agile method used primarily in manufacturing that focuses on achieving outcomes with little or no waste.
+Lean Six Sigma - A collaborative team method that provides an enhanced ability to target customer needs and measure performance during project execution and monitoring.
+Legitimate Power - The authority granted to an individual due to his/her position within a group or an organization.
+Lessons Learned - The knowledge gained during a project which shows how project events were addressed or should be addressed in the future for the purpose of improving performance. 
+Lessons Learned Register - A project document used to record knowledge gained during a project. The knowledge attained can be used in the current project and entered into the lessons learned repository for subsequent use.
+Lessons Learned Repository - A central store of historical lessons learned information from various projects across jurisdictions.
+Life Cycle Costing (LCC) - Life cycle costing is an approach that assesses the total cost of an asset over its life cycle including but not limited to initial capital costs, maintenance costs, etc. LCC is an important economic analysis used in the selection of alternatives that impact both pending and future costs. The concept is also known as lifetime cost and is commonly referred to as "cradle to grave" or "womb to tomb" costs. 
+Logical Relationship - Those relations between the elements of discourse or thought that constitute its rationality, in the sense either of reasonableness or intelligibility.
+Majority - A group decision-making method in which a course of action is agreed upon by a pre-defined quorum. 
+Make-or-Buy Analysis - The process of gathering and organizing data about product/service requirements and analyzing data against available alternatives including the purchase or internal manufacture of the project.
+Make-or-Buy Decisions - Decisions made regarding the external purchase versus internal manufacture of a product.
+Manage Communications - The process of creating, collecting, distributing, storing, retrieving, and the ultimate disposition of project information in accordance with the communications management plan defined within the project.
+Manage Project Knowledge - The process of using existing knowledge and creating new knowledge to achieve project objectives and contribute to organizational learning. The process must include tools that allow converting data into information, and information into knowledge.
+Manage Project Quality - The process of continually measuring the quality of all activities and taking corrective action until the desired quality is achieved. Quality management lowers the risk of product/service failure or unsatisfied clients.
+Manage Project Team - The process of tracking team member performance, providing feedback, resolving issues, and managing team changes to optimize project performance. The key benefit of this process is that it influences team behavior, manages conflict, resolves issues, and appraises team member performance.
+Manage Stakeholder Engagement Process - The process of communicating and working with stakeholders to meet their needs/expectations, address issues as they occur, and foster appropriate stakeholder engagement in project activities throughout the project life cycle.
+Management Reserve - An amount of the project budget held outside of the performance measurement baseline (PMB) for management control purposes, that is reserved for unforeseen work that is within the scope of the project. Usually 5 – 10% of the project budget. This should not be confused with contingency reserve. See also “Contingency Reserve”.
+Managing - The exercise of executive control or authority.
+Mandatory Dependency - A relationship that is contractually required or inherent in the nature of the work.
+Market Research - The process of evaluating the feasibility of a new product or service, through research conducted directly with potential consumers.
+Maslow's Hierarchy of Needs - A theory of psychology explaining human motivation based on the pursuit of different levels of needs. The theory states that humans are motivated to fulfill their needs in a hierarchical order. This order begins with the most basic needs before moving on to more advanced needs. The ultimate goal, according to this theory, is to reach the fifth level of the hierarchy: self-actualization.
+Matrix Organization - An organizational structure in which the project manager shares responsibility with the functional managers for assigning priorities and for directing the work of individuals assigned to the project.
+McClelland's Three Needs Theory - A human motivation theory which states that every person has one of three main driving motivators: the needs for achievement, affiliation, or power. Those with a strong need for affiliation don't like to stand out or take risk, and they value relationships above anything else.
+Milestone - A specific point within a project life cycle used as a measure in the progress toward the ultimate goal. A milestone marks a specific point along a project timeline. The point may signal anchors such as a project start and end date, a need for external review, or input and budget check. It is represented as a task of zero duration and is displayed as an important achievement in a project.
+Milestone Charts - A graphical representation of milestones. A type of project schedule bar chart that only includes milestone or major deliverables and their corresponding points in time.
+Milestone List - Refers to an input or an output of various processes. A document that contains the milestones of a project.
+Mind Mapping - A graphical technique used to consolidate ideas created through individual brainstorming sessions into a single map - image/display is used to reflect commonality and differences in understanding and to generate new ideas.
+Minimum Business Increment (MBI) - The smallest amount of value that can be added to a product or service that benefits the business.
+Minimum Viable Product (MVP) - The smallest collection of features that can be included in a product for customers to consider it functional. In Lean methodologies, it can be referred to as “bare bones” or “no frills” functionality.
+Mitigate - A strategy for managing negative risks or threats and that involves taking action to reduce the probability of occurrence or the impact of a risk.
+Modeling - An approach used in schedule management and risk management. This can assist in identification of problems or areas of risk with the project before they actually occur. See also “What-If Scenario” and “Monte Carlo Analysis”.
+Monitor and Control Project Work - Performed throughout the project, this the process of tracking, reviewing, and reporting the overall progress to meet the performance objectives defined in the project management plan. The key benefits of this process are that it allows stakeholders to understand the current state of the project, to recognize the actions taken to address any performance issues, and to have visibility into the future project status with cost and schedule forecasts. 
+Monitor and Controlling Process Group - One of five Project Management Process Groups. Monitoring and controlling processes measure work results against the plan and make adjustments where variance exists.
+Monitor Communications Process - This process determines if the planned communications artifacts and activities have had the desired effect of increasing or maintaining stakeholders' support for the project's deliverables and expected outcomes. 
+Monitor Risks - The process of monitoring the implementation of agreed-upon risk response plans, tracking identified risks, identifying and analyzing new risks, and evaluating risk process effectiveness throughout the project. The key benefit of this process is that it enables project decisions to be based on current information about overall project risk exposure and individual project risks.
+Monitor Stakeholder Engagement Process - Performed throughout a project, this is the process of monitoring project stakeholder relationships and tailoring strategies for engaging stakeholders through modification of engagement strategies and plans. The key benefit of this process is that it maintains or increases the efficiency and effectiveness of stakeholder engagement activities as the project evolves and its environment changes. 
+Monitoring and Controlling Process Group - One of the five Project Management Process Groups. It consists of those processes required to track, review, and regulate the progress and performance of the project; identify any areas in which changes to the plan are required; and initiate the corresponding changes. 
+Monte Carlo Analysis - Refers to a technique in project management by which the project manager computes and calculates the total project cost and the project schedule using various scenarios. A set of input values are selected taking into consideration the of probability distributions, potential costs, and potential durations. It allows a project manager to calculate a probable total cost of a project as well as to find a range or a potential date of completion for the project.
+Monte Carlo Simulation - An analysis technique in which a computer model is iterated many times, with the input values chosen at random for each iteration driven by the input data, including probability distributions and probabilistic branches. Outputs are generated to represent the range of possible outcomes for the project.
+Motivation - The inner drive or external encouragement that keeps people involved and wanting to complete work of high quality in a timely fashion.
+Multi-Criteria Decision Analysis - A technique that utilizes a decision matrix to provide a systematic, analytical approach for establishing criteria, such as risk levels, uncertainty, and valuation, to evaluate and rank many ideas. 
+Negative Float - The amount of time that must be saved to bring the project to completion on time.
+Negotiated Settlements - The product or output of negotiation, representing a final, equitable, mutually agreed disposition of all outstanding issues, claims, and disputes.
+Negotiation - An approach used by more than one individual or group to come to an agreement or resolution that is mutually agreed by all parties.
+Net Present Value (NPV) - The difference between the present value of cash inflows and the present value of cash outflows over a period of time. NPV is used in capital budgeting and investment planning to analyze the financial viability of a projected investment or project.
+Net Promoter Score (NPS) - Measures a customer's willingness to recommend a provider's products or services to another on a scale of -100 to 100.
+Network Diagram - A graph that shows the activities, duration, and interdependencies of tasks within a project. 
+Node - Represents the start or end of an activity in a sequence.
+Nominal Group Technique - A technique that enhances brainstorming with a voting process used to rank the most useful ideas for further brainstorming or for prioritization.
+Non-Verbal Communication - The use of body language and other means besides the spoken word—posture, gestures, dress and appearance, facial expressions, and the like—to communicate.
+Observations - Techniques used to gain knowledge of a specific job role, task, or function to understand and determine project requirements. See also “Job Shadowing”.
+Opportunity - A risk that, if developed, would create a positive effect on one or more project objectives.
+Opportunity Cost - A concept applied to quantify the missed opportunity when deciding to use a resource (e.g. investment dollars) for one purpose versus another. Alternately opportunity cost is the loss of potential future return from the second-best unselected project. In other words, it is the opportunity (potential return) that will not be realized when one project is selected over another.
+Organizational Chart - A diagram that shows the structure of an organization and the relationships and relative ranks of its parts and positions/jobs. It is typically a diagram that visually conveys a company's internal structure by detailing the roles, responsibilities, and relationships between individuals within an entity.
+Organizational Culture - The underlying beliefs, assumptions, values, and behaviors that contribute to and define the unique social and psychological environment of an organization.
+Organizational Process Assets (OPA) - Refers to all the implicit input or assets on processes used by an organization in operating a business. This may include, but is not limited to, business plans, processes, policies, protocols, and knowledge.
+Organizational Silo - Occurs when employees or an entire department are isolated or refuse to share information or interact with others in the same company. Thus, the flow of critical information will be contained within that department. See also “Silo”.
+Organizational Theory - The study of how people, teams, and organizations behave. It is part of the search for common themes for the purpose of maximizing efficiency and productivity, problem solving, and meeting the stakeholder requirements of a project.
+Osmotic Communication - Communication which occurs informally or indirectly and through means such as overhearing, as a result of people sitting in the same room/environment. 
+Output - A product, result, or service generated by a process. May be an input to a successor process. 
+Outsourcing - Moving beyond the organization to secure services and expertise from an outside source on a contract or short-term basis.
+Overlapping Relationships - A type of phase-to-phase relationship characterized by phases that start prior to the ending of the previous phase. Therefore, activities in different phases run concurrently with one another.
+Paralingual Communications - The effect of pitch, tone, and inflections in the sender's voice on the message being sent. For example, facial expressions, hand gestures, and body language contribute to the message.
+Parametric Estimating - An estimating technique in which an algorithm is used to calculate cost or duration based on historical data and project parameters. This technique is scalable and linear.
+Pareto Chart - A histogram that is used to rank causes of problems in a hierarchical format. See also “80/20 Rule”.
+Path - The sequence of project network activities.
+Payback Period - The interval required to amass (via profit or value) the initial investment made for a project. 
+PDCA/PDSA - Plan Do Check/Study Act – also known as the “Deming Wheel”. A process or method used to solve problems and implement solutions.
+Penalty Power - The ability to gain support because project personnel perceive the project manager as capable of directly or indirectly dispensing penalties that they wish to avoid. Penalty power usually derives from the same sources as reward power, with one being a necessary condition for the other.
+Perform Integrated Change Control - The process of reviewing all change requests, approving changes, and managing changes to deliverables, project documents, and the project management plan. These decisions are communicated to stakeholders.
+Perform Qualitative Risk Analysis - A process used to identify individual risks by looking at how likely they are to happen (probability of occurrence) and how bad they would be for the project if they did happen (impact).
+Perform Quantitative Risk Analysis - The process of numerically analyzing the effect of identified risks on overall project objectives.
+Persona - An imaginary person or identity created by the team to model interactions with the system to gather requirements.
+Phase - Refers to a collection of activities within a project. Each project phase is goal oriented and ends at a milestone.
+Phase Gate - A point review at the end of a phase in which a decision is made to continue to the next phase, to continue with modification, or to end a project or program.
+Plan Communications Management - Performed periodically, as needed, throughout the project, this is the process of developing an appropriate approach and plan for project communications activities based on the information needs of each stakeholder or group, available organizational assets, and the needs of the project. The key benefit of this process is a documented approach to engage stakeholders effectively and efficiently by presenting relevant information in a timely manner. 
+Plan Cost Management - Performed once or at predefined points in the project, this is the process of defining how the project costs will be estimated, budgeted, managed, monitored, and controlled. The key benefit of this process is that it provides guidance and direction on how the project costs will be managed throughout the project. 
+Plan Procurement Management Process - Performed once or at predefined points in the project, this is the process of documenting project procurement decisions, specifying the approach and identifying potential sellers. The key benefit of this process is that it determines whether to acquire goods and services from outside the project and, if so, what to acquire as well as how and when to acquire it. Goods and services may be procured from other parts of the performing organization or from external sources. 
+Plan Quality Management - Performed once or at predefined points in the project, the process of identifying quality requirements and/or standards for the project and its deliverables, and documenting how the project will demonstrate compliance with quality requirements and/or standards. The key benefit of this process is that it provides guidance and direction on how quality will be managed and verified throughout the project. 
+Plan Resource Management - Performed once or at predefined points in the project, this is the process of defining how to estimate, acquire, manage, and use team and physical resources. The key benefit of this process is that it establishes the approach and level of management effort needed for managing project resources based on the type and complexity of the project. 
+Plan Risk Management - Performed once or at predefined points in the project, this is the process of defining how to conduct risk management activities for a project. The key benefit of this process is that it ensures that the degree, type, and visibility of risk management are proportionate to both risks and the importance of the project to the organization and other stakeholders. 
+Plan Schedule Management - Performed once or at predefined points in the project, this is the process of establishing the policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule. The key benefit of this process is that it provides guidance and direction on how the project schedule will be managed throughout the project. 
+Plan Scope Management - Performed once or at predefined points in the project, this is the process of creating a scope management plan that documents how the project and product scope will be defined, validated, and controlled. The key benefit of this process is that it provides guidance and direction on how scope will be managed throughout the project. 
+Plan Stakeholder Engagement Process - Performed periodically throughout the project as needed, this is the process of developing approaches to involve project stakeholders based on their needs, expectations, interests, and potential impact on the project. The key benefit is that it provides an actionable plan to interact effectively with stakeholders. 
+Planned Value (PV) - The approved value of the work to be completed for a specific period of time.
+Planning package - A WBS component below the control account with known work content but without detailed schedule activities.
+Planning Poker - Agile exercise to help the team estimate work. 
+Planning Process Group - One of the five Project Management Process Groups. It consists of those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve. 
+Plurality - Decisions made by the largest block in a group, even if a majority is not achieved.
+PMBOK® - PMBOK® stands for Project Management Body of Knowledge, and it is the entire collection of processes, best practices, terminologies, and guidelines that are accepted as standard within the project management industry.
+PMBOK® Guide - A Guide to the Project Management Body of Knowledge (PMBOK® Guide) is the Project Management Institute's flagship publication representing standards in the business area of project management.
+Political Awareness - The ability to recognize the power structure internal to the organization, and the ability to navigate the relationships.
+Portfolio - Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.
+Portfolio Management - The centralized management of one or more portfolios to achieve strategic objectives.
+Power/Influence Grid - A classification model that groups stakeholders on the basis of their levels of authority and involvement in the project.
+Power/Interest Grid - A classification model that groups stakeholders on the basis of their levels of authority and interest in the project.
+Precedence Diagramming Method (PDM) - A technique that uses analysis of logical relationships to create Activity on Node diagrams.
+Precedence Relationship - A logical dependency used in the precedence diagramming methods.
+Predictive Life Cycle - Project management approach in which activities are completed in a distinct or linear fashion and a new phase begins only when the previous phase is completed. Value is delivered at the completion of the project in the form of deliverables. See also “Waterfall”.
+Present Value (PV) - The current value of a future sum of money or stream of cash flows given a specific rate of return.
+Preventative Action - Action taken to proactively prevent or avoid anticipated future problems. This is closely tied to risk management.
+Prevention - A concept in quality management that indicates that quality cannot be inspected into a product but should be planned for from the start to avoid problems.
+Probability and Impact Matrix - A grid for mapping the probability of occurrence of each risk and its impact on project objectives if that risk occurs.
+Probability Distribution - The scattering of values assigned to likelihood in a sample population. It can be visually depicted in the form of a probability density function (PDF).
+Process - A systematic series of activities directed towards causing a result such that one or more inputs will be acted upon to create one or more outputs. 
+Process Improvement Plan - A component of the project management plan, this document describes the processes used in the production of the project's deliverables, how they will be monitored, and under what conditions they may be changed.
+Procurement - The acquisition of goods and services from an external organization, vendor, or supplier to enable the deliverables of the project.
+Procurement Audit - The review of procurement contracts and contracting processes for completeness, accuracy, and effectiveness.
+Procurement Documents - Documents used in bid and proposal activities, which include the buyer's invitation for bid, expression of interest (EOI); invitation for negotiations; request for information (RFI); request for quotation (RFQ); request for proposal (RFP); and settler's responses.
+Procurement Management Plan - A component of the project or program management plan that describes how a project team will acquire goods and services from outside the executing organization.
+Procurement Statement of Work (SOW) - Describes the procurement item in sufficient detail to allow prospective sellers to determine their capability of executing the tasks necessary to deliver the deliverables, products, services, or outputs.
+Product - An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item. See also “Deliverable”. 
+Product Analysis - For projects that deliver a product, this is a tool to define scope. It generally means asking questions about a product and forming answers to describe the use, characteristics, and other relevant aspects of what is going to be manufactured.
+Product Backlog - A Scrum term. A prioritized list of customer requirements that will improve a product/service. This list represents the single source for work.
+Product Box Exercise - A technique used to explain a desired solution or outcome. Stakeholders try to describe aspects of a solution in the same way a marketer might describe product features and benefits on a box.
+Product Owner - An individual or an organization who is responsible for gathering inputs about a product from the customer and translating the requirements into the product vision for the team and stakeholders.
+Product Roadmap - A high-level visual summary of the product or products of the project that includes goals, milestones, and potential deliverables.
+Product Scope - The functions and features that characterize a product or a service.
+Program - Related projects, subsidiary programs, and program activities that are managed in a coordinated manner to obtain benefits not available from individual management of them. A project may or may not be part of a program, but a program will always have projects.
+Program Management - The application of knowledge, skills, and principles to a program to achieve program objectives and obtain benefits and control not available by management of program components individually. The process of managing programs mapped to business objectives that improve organizational performance. Program managers oversee and coordinate the various projects and other strategic initiatives throughout an organization. PMI offers the Program Management Professional (PgMP)® certification in program management. The process of managing programs mapped to business objectives that improve organizational performance. Program managers oversee and coordinate the various projects and other strategic initiatives throughout an organization.
+Progressive Elaboration - The iterative process of increasing the level of detail in a project management plan as greater amounts of information and more accurate estimates become available.
+Project - A temporary endeavor undertaken to create a unique product, service, or result. It usually has a start and an end date.
+Project Artifact - Any document related to the management of a project.
+Project Calendar - The project calendar specifies the working and non-working days and times for activities.
+Project Charter - A document issued by the project initiator or sponsor that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities.
+Project Coordinator - A project coordinator handles administrative tasks for the project manager and team members to manage a project effectively and efficiently. Tasks may include procuring project resources such as equipment and supplies, managing deadlines, workflow, and scheduling project meetings and other appointments on behalf of the project team.
+Project Expeditor - Role or position on a project team that works as an assistant and coordinates communications on behalf of the team. Individuals performing in this role cannot make or enforce decisions but can communicate with the contractors or suppliers of project resources to ensure the timely delivery of materials.
+Project Funding - The means by which the money required to undertake a project, program or portfolio is secured and then made available as required.
+Project Funding Requirements - Budgetary requirements that specify when funds will be needed to be provided for the project. 
+Project Governance - The framework, functions, and processes that guide project management activities to create a unique product, service, or result to meet organizational, strategic, and operational goals.
+Project Life Cycle - A series of phases through which a project develops, from initiation to completion.
+Project Management - The application of knowledge, skills, tools, and techniques to project activities to fulfill the project plan.
+Project Management Information System (PMIS) - An information system consisting of the tools and techniques used to gather, integrate, and disseminate the outputs of project management processes. See also “Project Management Software”.
+Project Management Institute (PMI®) - A professional membership association for project managers.
+Project Management Office (PMO) - A management structure that standardizes the project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques. PMOs are more common in larger organizations because of the number of projects that can be in process at the same time.
+Project Management Plan - The document that describes how the project will be executed, monitored and controlled, and closed.
+Project Management Process Groups - Refers specifically to five logic-oriented groupings of project management processes. These include 1 - Initiation · 2 - Planning · 3 - Executing · 4 – Monitoring and Controlling · 5 - Closing. 
+Project Management Software - An automated application that helps plan, organize, and manage project resources and develop resource estimates for activities. See also “Project Management Information System (PMIS)”.
+Project Manager - The person assigned by the performing organization to lead the team that is responsible for achieving the project goals and objectives.
+Project Meetings - In-person or virtual communication events held with stakeholders that intend to generate group decisions, such as discussing issues, creating proposals, and approving or rejecting offers which can contribute to quicker project deliverables, planned goals, and expected results. Project meetings are an effective method of distributing information and communicating with the team and stakeholders.
+Project Methodology - A system of principles, practices, techniques, procedures, and rules used by those who manage projects.
+Project Phase - A collection of logically related project activities that culminates in the completion of one or more deliverables. A phase has a set of goals and objectives, and the attainment of these goals/objectives triggers a milestone. 
+Project Plan - Defines project goals and objectives, specifies tasks, and methodology. The plan identifies the resources required, associated budgets, and timelines for completion. A project plan is expected to define all works in a project, the human resources and other resources required to execute the plan in its entirety.
+Project Requirements - For a project, these are the agreed-upon conditions or capabilities of a product, service, or outcome that a project is designed to satisfy. See also “Requirements”.
+Project Schedule Network Diagram - A graphical representation of the logical relationships among the project schedule activities. An output of a schedule model that presents linked activities with planned dates, durations, milestones, and resources. See also “Network Diagram”.
+Project Scope - The features, functions, and works that characterize the delivery of a product, service, and/or result. Highly dependent on triple constraints of time, cost, and quality.
+Project Scope Statement - The description of the project scope, major deliverables, assumptions, and constraints.
+Project Sponsor - A person or group who provides resources and support for the project, program, or portfolio and is accountable for enabling success.
+Project Team - A set of individuals who support the project manager in performing the work of the project to achieve its objectives.
+Projectized Organization - A structure in which a project manager and a core project team operate as a separate organizational unit within the parent organization.
+Prompt List - A checklist for a specific category of risk. This tool is a simple series of broad risks, for example environmental or legal, rather than specific risks, such as flooding or regulatory changes. The idea is to push (prompt) the team to think and brainstorm the risks in groups and eventually prioritize the same.
+Prototypes - A method of obtaining early feedback on user requirements by building a working model of the expected product. Prototypes can be used to solicit aesthetics, functionalities etc. Several iterations maybe displayed.
+Pull Communications - Messages that require the interested people to access the information based on their own initiative.
+Push Communications - Messages that are sent out to people who need to receive the information.
+Qualified Vendors - The vendors who are approved to deliver the products, services, or results based on the procurement requirements identified for a project.
+Qualified Vendors List - Contains details regarding vendors who meet the organization's requirements and to whom requests can be sent.
+Qualitative Risk Analysis - A technique used to determine the probability of occurrence and the impact of identified risk. 
+Quality - The degree to which a set of inherent characteristics fulfills requirements.
+Quality Audit - A structured, independent process to determine if project activities comply with organizational and project policies, processes, and procedures.
+Quality Function Deployment (QFD) - Workshops that are commonly used in the manufacturing field to determine new product development requirements.
+Quality Gate - A special type of gate located before a phase that is strongly dependent upon the outcome of a previous phase. The quality gate process is a formal way of specifying and recording the transition between stages in the project life cycle.
+Quality Management Plan - A component of the project or program management plan that describes how applicable policies, procedures, and guidelines will be implemented to achieve the quality objectives.
+Quality Metric - A description of a project or product attribute and how to measure it.
+Quality Policy - The basic principles that should govern the organization's actions as it implements its system for quality management.
+Quality Report - A project document that includes quality management issues, recommendations for corrective actions, and a summary of findings from quality control activities and may include recommendations for process, project, and product improvements.
+Quantitative Risk Analysis - Technique used to assess the risk exposure events to overall project objectives and determine the confidence levels of achieving the project objectives.
+Questionnaires - Written sets of questions designed to quickly gather information from many respondents.
+RACI Chart - Stands for Responsible, Accountable, Consulted, and Informed. A common type of responsibility assignment matrix (RAM) that uses responsible, accountable, consult, and inform statuses to define the involvement of stakeholders in project activities.
+Recognition - A more personalized, intangible, and experiential event that focuses on behavior rather than outcome.
+Refactoring - Refers to software development. Improving the design of the code so that it is easier to test, debug, and maintain. 
+Referent Power - Refers to establishing trust, respect, and credibility with people in work or personal life contexts.
+Regulations - Requirements imposed by a governmental body. These requirements can establish product, process, or service characteristics, including applicable administrative provisions that have government-mandated compliance.
+Relative Authority - The project manager's authority relative to the functional manager's authority over the project and the project team.
+Relative Estimating - Also called sizing. The process of estimating stories or backlog tasks in relation to each other instead of in units of time.
+Release Plan - The plan that sets expectations for the dates, features, and/or outcomes a project expects to deliver over the course of several iterations. 
+Release Planning - The process of identifying a high-level plan for releasing or transitioning a product, deliverable, or increment of value to the customer.
+Reports - A formal record or summary of information.
+Request for Information (RFI) - A type of procurement document whereby the buyer requests a potential seller to provide various pieces of information related to a product or service or seller capability.
+Request for Proposal (RFP) - A type of procurement document used to request proposals from prospective sellers of products or services. In some application areas, it may have a narrower or more specific meaning.
+Request for Quotation (RFQ) - A type of procurement document used to request price quotations from prospective sellers of common or standard products or services. Sometimes used in place of request for proposal and, in some application areas, it may have a narrower or more specific meaning.
+Requirements - A measurable condition or capability that is necessary to be present in a product, service, or result to satisfy a business need. See also "Project Requirements"
+Requirements Documentation - A description of how individual requirements meet the business need for the project.
+Requirements Management Plan - A component of the project or program management plan that describes how requirements will be analyzed, documented, and managed.
+Requirements Traceability Matrix - A grid that links product requirements from their origin to the deliverables that satisfy them. 
+Reserve - A provision in the project management plan to mitigate cost and/or schedule risk, often used with a modifier (e.g., management reserve, contingency reserve) to provide further detail on what types of risks are meant to be mitigated. See also “Buffer”.
+Reserve Analysis - A method used to evaluate the amount of risk on the project and the amount of schedule and budget reserve to determine whether the reserve is sufficient for the remaining risk.
+Residual Risk - The risk that remains after risk responses have been implemented. 
+Resource - A skilled individual or team, equipment, services, supplies, commodities, materials, budgets, or funds required to accomplish the defined work. 
+Resource Breakdown Structure - A hierarchical representation of resources by category and type. 
+Resource Calendar - A calendar that identifies the working days and shifts for which each specific resource is available.
+Resource Histogram - A bar chart that represents when a resource will be needed in the project.
+Resource Levelling - A resource optimization technique in which adjustments are made to the project schedule to optimize the allocation of resources and which may affect the critical path.
+Resource Management Plan - A component of the project management plan that describes how project resources are acquired, allocated, monitored, and controlled.
+Resource Optimization Techniques - A technique in which activity start and finish dates are adjusted to balance demand for resources with the available supply. See also “Resource Levelling” and “Resource Smoothing”. 
+Resource requirements - The types and quantities of resources required for each activity in a work package.
+Resource Smoothing - A resource optimization technique in which free and total float are used without affecting the critical path. See also “Resource Levelling” and “Resource Optimization Technique”. 
+Responsibility Assignment Matrix (RAM) - A grid that shows the project resources assigned to each work package.
+Retrospective - Agile meeting held after the iteration/sprint/increment for the team to review the process and results to identify what went well and what can be done differently. Closely tied to continuous improvement. Process is the same as lessons learned.
+Return on Investment (ROI) - A financial metric of profitability that measures the gain or loss from an investment relative to the amount of money invested.
+Reward - A tangible, consumable item that is given to a person based on a specific outcome or an achievement.
+Reward and Recognition Plan - A formalized way to reinforce performance or behavior.
+Rework - Action taken to bring a defective or nonconforming component into compliance with requirements or specifications. 
+Risk - An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives.
+Risk Acceptance - A risk response strategy whereby the project team decides to acknowledge the risk and not take any action unless the risk occurs. 
+Risk Appetite - The degree of uncertainty an organization or individual is willing to accept in anticipation of a reward.
+Risk Avoidance - A risk response strategy whereby the project team acts to eliminate the threat or protect the project from its impact. 
+Risk Breakdown Structure - A hierarchical representation of potential sources of risk. 
+Risk Breakdown Structure (RBS) - A hierarchical representation of potential sources of risk.
+Risk Categorization - Organization by sources of risk (e.g., using the RBS), the area of the project affected (e.g., using the WBS), or other useful category (e.g., project phase) to determine the areas of the project most exposed to the effects of uncertainty.
+Risk Category - A group of potential causes of risk.
+Risk Enhancement - A risk response strategy whereby the project team acts to increase the probability of occurrence or impact of an opportunity. 
+Risk Exploiting - A risk response strategy whereby the project team acts to ensure that an opportunity occurs. 
+Risk Exposure - An aggregate measure of the potential impact of all risks at any given point in time in a project, program, or portfolio.
+Risk Impact - The likely effect on project objectives if a risk event occurs.
+Risk Management Plan - A component of the project, program, or portfolio management plan that describes how risk management activities will be structured and performed. 
+Risk Mitigation - A risk response strategy whereby the project team acts to decrease the probability of occurrence or impact of a threat. 
+Risk Owner - The person responsible for monitoring the risk and for selecting and implementing an appropriate risk response strategy.
+Risk Probability - The likelihood that a risk event will occur or prove true during the project.
+Risk Register - A repository in which outputs of risk management processes are recorded. As the central planning document for project risk analysis and control, the risk register contains a list of the most important risks to the project's completion. For each risk, it identifies the likelihood of occurrence, the impact to the project, the priority, and the applicable response plans.
+Risk Response Plan - This plan involves reducing and eliminating risks and their potential impacts through appropriate mitigation techniques.
+Risk Sharing - A risk response strategy whereby the project team allocates ownership of an opportunity to a third party who is best able to capture the benefit for the project. 
+Risk Threshold - The level of risk exposure above which risks are addressed and below which risks may be accepted.
+Risk Tolerance - The maximum amount of risk, and the potential impact of that risk occurring, that a project manager or key stakeholder is willing to accept.
+Risk Tolerance [deprecated] - The degree of uncertainty that an organization or individual is willing to withstand. 
+Risk Transference - A risk response strategy whereby the project team shifts the impact of a threat to a third party, together with ownership of the response. 
+Risk Workshop - A technique that uses a special meeting conducted for the purpose of identifying project risks. In addition to the project team members, this workshop might also include the project sponsor, SMEs, customer representatives, and other stakeholders, depending on the size of the project.
+Role - Refers to a human-driven function in a work setting. 
+Rolling Wave Planning - An iterative planning technique in which the work to be accomplished in the near term is planned in detail, while the work in the future is planned at a higher level.
+Root Cause Analysis - An analytical technique used to determine the basic underlying reason that causes a variance or a defect or a risk. A root cause may underlie more than one variance or defect or risk.
+SAFe® - (Scaled Agile Framework) A knowledge base of integrated patterns for enterprise-scale lean- agile development. A framework that implements Scrum at an enterprise level. 
+Salience Model - A classification model that groups stakeholders according to level of authority, immediate needs, and how appropriate their involvement is in terms of the project.
+Schedule Baseline - The approved version of a schedule model that can be changed using formal change control procedures and is used as the basis of comparison to actual results. It is one of the main project documents that should be created before the project starts.
+Schedule Compression - A method used to shorten the schedule duration without reducing the project scope.
+Schedule Forecast - Estimates or predictions of conditions and events in the project's future based on information and knowledge available at the time the schedule is calculated.
+Schedule Management Plan - A component of the project or program management plan that establishes the criteria and the activities for developing, monitoring, and controlling the schedule.
+Schedule Performance Index (SPI) - A measure of schedule efficiency, expressed as the ratio of earned value to planned value.
+Schedule Variance (SV) - A measure of schedule performance is expressed as the difference between the earned value and the planned value.
+Scope Baseline - The approved version of a scope statement, Work Breakdown Structure (WBS) and its associated WBS dictionary can be changed using formal change control procedures and is used as a basis for comparison to actual results.
+Scope Creep - The uncontrolled expansion of project scope without adjustments to time, cost, and resources. 
+Scope Management Plan - A component of the project or program management plan that describes how the scope will be defined, developed, monitored, controlled, and validated.
+Scope Statement - Details about project deliverables and the major objectives of a project, including measurable outcomes.
+Scrum - An agile framework for developing and sustaining complex products, with specific roles, events, and artifacts. 
+Scrum Master - The coach of the development team and process owner in the Scrum framework. Removes obstacles, facilitates productive events, and protects the team from disruptions.
+Scrum of Scrums (SoS) - A technique to operate Scrum at scale for several teams working on the same product, coordinating discussions of progress on their interdependencies, and focusing on how to integrate the delivery of software, especially in areas of overlap.
+Scrum Team - Dedicated, self-managing, cross-functional, fully empowered individuals who deliver the finished work required by the customer.
+Self-Organizing Team - A type of agile team, usually which comprises generalizing specialists and allows members to determine how their efforts would be best used. Team members are neither managed nor directed. 
+Sequential Relationships - Refers to a consecutive relationship between phases; phases occur in procession and without overlap.
+Servant Leadership - A leadership style used in agile and other types of projects which encourages the self-definition, self-discovery, and self-awareness of team members by listening, coaching, and providing an environment that allows them to grow.
+Service-Level Agreement - An agreement between a service provider and a stakeholder, often a customer. Aspects of the service such as quality, availability, and responsibilities are detailed in this agreement.
+Service-Level Agreement (SLA) - A contract between a service provider (either internal or external) and the end user that defines the level of service expected from the service provider.
+Share - A strategy for managing positive risks or opportunities that involves allocating some or all the ownership of the opportunity to a third party.
+Silo - See “Organizational Silo”.
+Simulation - An analytical technique that models the combined effect of uncertainties to evaluate their potential impact on objectives.
+Six Sigma - See “Lean Six Sigma”.
+Skills List - The skills list provides details of all the skills the team possesses. This includes interpersonal skills needed to establish and maintain relationships with other people. Some of the skills may be irrelevant to the project team, while some are highly relevant to project goals.
+Slack - Used in the critical path method. Amount of time that a task can be delayed without affecting the deadlines of other subsequent tasks.
+Smoothing - See “Resource Smoothing”.
+SoS - See “Scrum of Scrums”.
+Source Selection Criteria - A set of attributes, desired by the buyer, which a seller is required to meet or exceed to be selected for a contract.
+Source-Based Risk Classification - A method of analyzing risk in terms of its origins.
+Special Cause - Refers to a system in project management. Also called an assignable cause. Any factor or factors which may affect a system either in progress or outcome. See also “Common Cause”.
+Spike - An agile term emerging from Extreme Programming (XP). Refers to timeboxed work for the purpose of answering a question or gathering information, rather than producing a viable product. 
+Sprint - Used in Scrum. A short time interval during which a usable and potentially releasable increment of the product is created. See also “Iteration”. 
+Sprint backlog - A list of work items identified by the Scrum team to be completed during the Scrum sprint.
+Sprint Planning - A collaborative event in Scrum in which the Scrum team plans the work for the current sprint. 
+Sprint Retrospective - This critical part of the Scrum process is attended by the product owner, Scrum Master, and the Scrum team to analyze from a process perspective what is working well and what is not and to agree upon changes to implement.
+Sprint Review - A review at the end of each iteration with the product owner and other customer stakeholders to review the progress of the product, get early feedback, and review an acceptance from the product owner of the stories delivered in the iteration. See also “Demo”.
+Stakeholder - An individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio.
+Stakeholder Analysis - A technique of systematically gathering and analyzing quantitative and qualitative information to determine whose interests should be considered throughout the project.
+Stakeholder Cube - A three-dimensional classification model that builds on the previous two-dimensional grids to group stakeholders.
+Stakeholder Engagement Assessment Matrix - A matrix that compares current and desired stakeholder engagement levels.
+Stakeholder Engagement Plan - A component of the project management plan that identifies the strategies and actions required to promote productive involvement of stakeholders in project or program decision-making and execution. 
+Stakeholder Register - A project document including the identification, assessment, and classification of project stakeholders.
+Standard - A document established by an authority, custom, or general consent as a model or example. 
+Standard Deviation (SD) - Statistical concept that gives a measure of the duration uncertainty and risk in project time estimation. SD represented by the Greek letter sigma (?). A low value for the SD indicates that that data points are close to the mean or the expected value of the set, while a high value indicates that the data points are spread out over a wider range.
+Start-to-Finish (SF) - A logical relationship in which a predecessor activity cannot finish until a successor activity has started.
+Start-to-Start (SS) - A logical relationship in which a successor activity cannot start until a predecessor activity has started.
+Statement of Work (SoW) - A document used to describe project work. The SoW identifies requirements, deliverables, scope, project details, and timelines for delivery.
+Statistical Sampling - Choosing part of a population of interest for inspection. Used when more thorough data analysis methods are not suitable.
+Statistical Sampling Process - A process that involves dividing sampling data into two categories—attribute and variable— each of which is gathered according to sampling plans. As corrective actions are taken in response to analysis of statistical sampling and other quality control activities, and as trend analysis is performed, defects and process variability should be reduced.
+Story - Describes the smallest unit of work in an agile framework. An informal, general explanation of a product, service, or software feature written from the end-user's perspective. Its purpose is to articulate how the feature will provide value to the customer. See also “User Story”.
+Story Card - One unit of delivery for an agile team.
+Story Map - A visual model of all the features and functionality desired for a given product, created to give the team a holistic view of what they are building and why.
+Story Points - Used in agile practice to estimate the amount of time it will take to complete a story item from the project backlog.
+Storyboarding - The prototyping method that uses visuals or images to illustrate a process or represent a project outcome. Storyboards are useful to illustrate how a product, service, or application will function or operate when it is complete.
+Supportive PMO - The type of PMO that provides a consultative role to projects by supplying templates, best practices, training, access to information, and lessons learned from other projects.
+Sustainability - The planning, monitoring, and controlling of project delivery and support processes with consideration to environmental, economic, and social aspects of project-based working to meet the current needs of the stakeholders without compromising future generations.
+Swarming - Act of all development team members working on only one requirement at a time during the sprint. Team members focus collectively to resolve a specific problem.
+SWOT Analysis - A grid used to assess the strengths, weaknesses, opportunities, and threats of an organization, project, or option.
+System - The rules, processes, procedures, people, and other elements that support an outcome or process. A project can have one or many systems, for example, work authorization system, change control system, information system, etc. 
+System Development Life Cycle (SDLC) - Typically used with software development projects, SDLC depicts the group of phases which encompass the entire project life cycle from start to finish. How the project is executed is defined by the methodology—waterfall, agile, iterative, incremental, etc.
+Tacit Knowledge - Personal knowledge that can be difficult to articulate and share such as beliefs, experience, and insights.
+Task - An activity to be accomplished with a specific purpose within a defined period of time. See also “Activity”.
+Task Board - Used to visualize the work and enable the team and stakeholders to track their progress as work is performed during an iteration. Examples of task boards include Kanban boards, to-do lists, procedure checklists, and Scrum boards.
+Team - Group of people responsible for executing project tasks and producing deliverables outlined in the project plan and schedule.
+Team Building - The process of continually supporting and working collaboratively with team members to enable a team to work together to solve problems, diffuse interpersonal issues, share information, and tackle project objectives as a unified force.
+Team Charter - A document that records the team values, agreements, and operating guidelines as well as establishes clear expectations regarding acceptable behavior by project team members.
+Team Management Plan - A component of the resource management plan that describes when and how team members will be acquired and how long they will be needed.
+Team Resource Management - The processes necessary to organize, manage, and lead the people on the project team as well as the processes needed to procure and manage physical resources for a project.
+Team-Building Activities - The specific functions or actions taken to help the team to develop into a mature, productive team. They can be formal or informal, brief, or extended, and facilitated by the project manager or a group facilitator.
+Teaming Agreement - A legal contractual agreement between two or more parties to form a joint venture or any other arrangement as defined by the parties to meet the requirements of a business opportunity. The parties can be internal or external to the organization executing the project.
+Technique - See “Tool”.
+Template - A partially complete document in a predefined format that provides a defined structure for collecting, organizing, and presenting information and data.
+Term Contract - A type of contract that engages the vendor to deliver a set amount of service—measured in staff-hours or a similar unit—over a set period of time.
+Test-Driven Development (TDD)/Test-First Development - Derived from a software development practice, TDD helps in the design process by using repeated short development cycles. First the developer writes an (initially failing) automated test case that defines a desired improvement or new function. The team then produces the minimum amount of code to pass that test before finally refactoring the new code to acceptable standards. 
+Theme - Agile term. Refers to groupings of epics or stories.
+Theory X - Refers to Theory X by Douglas McGregor which proposes that managers micro-manage their employees or team members because they assume their workers are unmotivated and dislike work. See also “Theory Y”. 
+Theory Y - Refers to Theory Y by Douglas McGregor which proposes that managers have an optimistic and positive opinion of their employees or team members, so this type of manager encourages a more collaborative, trust-based relationship between employees. See also “Theory X”.
+Threat - A risk that would have a negative effect on one or more project objectives.
+Three-Point Estimating - A technique used to estimate cost or duration by applying an average or weighted average of optimistic, pessimistic, and most likely estimates when there is uncertainty with the individual activity estimates. Also called “triangular estimating”.
+Time and Material (T&M) Contract - A type of contract that is a hybrid contractual arrangement containing aspects of both cost- reimbursable and fixed-price contracts.
+Timebox - A fixed period of time to provide duration limits for an activity, a piece of work, or a meeting—for example, 1 week, 2 weeks, 3 weeks, or 1 month.
+To Complete Performance Index (TCPI) - The estimate of the future cost performance that may be needed to complete the project within the approved budget.
+Tolerance - The quantified description of acceptable variation for a quality requirement.
+Tool - The applied function, action, procedure, or routine defined for a process to produce the desired output.
+Total Float - The amount of time that a schedule activity can be delayed or extended from its early start date without delaying the project finish date or violating a schedule constraint. See also “Float” and “Free Float”.
+Total Quality Management (TQM) - An approach to improve business results through an emphasis on customer satisfaction, employee development, and processes rather than on functions.
+Training - An activity in which team members acquire new or enhanced skills, knowledge, or attitudes.
+Transfer - A strategy for managing negative risks or threats that involves shifting the impact and ownership of the risk to a third party and paying a risk premium to the party taking on the liability of the risk.
+Transparency - One of the three pillars of empirical process (transparency, inspection, and adaptability) that promotes real-time, accurate progress on every aspect of the project. See also “Visibility”.
+Trend Analysis - An analytical technique that uses mathematical models to forecast future outcomes based on historical results.
+Trigger Condition - An event or situation that indicates that a risk is about to occur.
+Triple Constraint - Refers to the factors of time, cost, and scope which can be adjusted when managing projects. Often called the project management triangle.
+T-Shaped - Refers to a person whose skill set comprises one area of specialization and broad ability in other skills required by the team.
+Unanimity - Agreement by everyone in the group on a single course of action.
+Unique Identification Code - A specific configuration of a code of accounts that assigns a particular alphanumeric sequence of characters to each element of a WBS.
+User Story - An informal, general explanation of a product, service, or software feature written from the perspective of the end user. Its purpose is to articulate how the feature will provide value to the customer. See also “Story”.
+Validate Scope - The process of formalizing acceptance of the completed project deliverables.
+Validation - The assurance that a product, service, or result meets the needs of the customer and other identified stakeholders. See also “Verification”.
+Value - The worth that a project delivers to the business. 
+Value Delivery System - The combined and systematic effort by leadership, portfolio, and program and project management to create value in and for an organization. 
+Value Engineering - Systematic, organized approach to providing necessary functions in a project at the lowest cost. 
+Value Stream - An organizational construct that focuses on the flow of value to customers through the delivery of specific products or services.
+Value Stream Mapping - A Lean enterprise technique used to document, analyze, and improve the flow of information or materials required to produce a product or service for a customer.
+Variability Control Charts - Used to analyze and communicate the variability of a process or project activity over time. See also “Control Charts”.
+Variable Sampling Data - Data from a sample that is measured on a continuous scale such as time, temperature, or weight. 
+Variance - A quantifiable deviation, departure, or divergence away from a known baseline or expected value. 
+Variance Analysis - A technique for determining the cause and degree of difference between the baseline and the actual performance.
+Variance at Completion (VAC) - A formula that measures a project's actual cost, compared with the budgeted amount. It is the difference from the budget at completion (BAC) and the estimate at completion (EAC). The formula is VAC = BAC – EAC.
+Velocity - A measure of a team's productivity rate at which the deliverables are produced, validated, and accepted within a predefined interval.
+Vendor Bid Analysis - A cost estimation technique used to understand what a product/service should cost. 
+Verification - The evaluation of whether a product, service, or result complies with a regulation, requirement, specification, or imposed condition. See also “Validation”.
+Verified Deliverable - Deliverables that have been compared to the scope/requirements and specifications to ensure they are correct.
+Version Control - A system that records changes to a file, in a way that allows users to retrieve previous changes made to it.
+Virtual Team - A group of people with a shared goal who fulfill their roles with little or no time spent meeting face-to-face.
+Visibility - See “Transparency”.
+Waiver - A legally binding provision in which one party in a contract agrees to forfeit a claim without the other party becoming liable, even inadvertently. 
+War Room - Refers to a physical space where project team members and stakeholders plan strategy and run a project.
+Warranty - A promise, explicit or implied, that goods or services will meet a predetermined standard. Usually limited to a specific period of time. 
+Waterfall - Project management approach in which activities are completed in a distinct or linear fashion and a new phase begins only when the previous phase is completed. Value is delivered at the completion of the project in the form of deliverables. See also “Predictive Life Cycle”.
+WBS dictionary - A document that provides detailed deliverable, activity, and scheduling information about each component in the work breakdown structure (WBS).
+What-If Scenario - Used in the Develop Schedule process, this technique evaluates different scenarios to predict their effects–both positive and negative–on the project objectives.
+Wideband Delphi Estimating - Consensus-based estimation technique for estimating effort.
+Wireframe - A non-functional interface design (not written in code) that shows the key elements and how they would interact to give the user an idea of how the system would function.
+Withdrawal - Refusal to deal with a conflict.
+Work Authorization System - Used to ensure that work gets performed at the right time, in the right sequence, and with the right resources. This can be formal or informal.
+Work Breakdown Structure (WBS) - A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables.
+Work in Progress (WIP) - Work that has been started but not yet completed.
+Work Package - The work defined at the lowest level of the work breakdown structure (WBS) for which cost and duration are estimated and managed.
+Work Performance Data - The raw observations and measurements identified during activities being performed to carry out the project work. They can be recorded in the PMIS and project documents.
+Work Performance Information - The raw performance data collected from controlling processes, analyzed in comparison with project management plan components, project documents, and other work performance information.
+Work Performance Report - The physical or electronic representation of work performance information compiled in project documents, intended to generate decisions, actions, or awareness.
+Work Shadowing - An on-the-job technique that enables someone to learn about and perform a job while observing and working with another, more experienced person. 
+Workaround - A suitable, unplanned alternative action used to complete work. 
+Workflow - Carefully planned sequence of the tasks and activities that need to be done to complete the project.
+XP Metaphor - A common Extreme Programming (XP) technique that describes a common vision of how a program works. 
