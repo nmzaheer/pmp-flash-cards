@@ -80,8 +80,11 @@ ApplicationWindow {
                     Text {
                         id: backContent
                         text: "Back Content";
+                        font.pointSize: 24;
+                        color: Material.Purple
                         width: parent.width
                         wrapMode: Text.WordWrap
+                        padding: 20
                         horizontalAlignment: Text.AlignHCenter
                         anchors.verticalCenter: bcard.verticalCenter
                         anchors.horizontalCenter: bcard.horizontalCenter
