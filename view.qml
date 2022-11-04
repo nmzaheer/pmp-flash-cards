@@ -47,6 +47,7 @@ ApplicationWindow {
                     Text {
                         id: frontContent
                         text: "Front Content";
+                        font.pointSize: 13;
                         width: parent.width
                         padding: 30
                         wrapMode: Text.WordWrap
@@ -81,7 +82,7 @@ ApplicationWindow {
                         id: backContent
                         text: "Back Content";
                         font.pointSize: 24;
-                        color: Material.Purple
+                        color: Material.color(Material.LightBlue)
                         width: parent.width
                         wrapMode: Text.WordWrap
                         padding: 20
