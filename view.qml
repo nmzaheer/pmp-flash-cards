@@ -8,30 +8,33 @@ import QtQuick.Controls.Material
 ApplicationWindow {
     id: main
     visible: true
-    width: 640
-    height: 480
+    width: 800
+    height: 640
     title: 'PMP Glossary Flash Cards'
     
     background: ColumnLayout {
-        spacing: 0
+        spacing: 80
+        anchors.fill: parent
         Flipable {
             id: flipable
-            width: 400
-            height: 400
+            width: 600
+            height: 380
             Layout.topMargin: 20
-            Layout.alignment:Qt.AlignHCenter | Qt.AlignVCenter
+            Layout.alignment: Qt.AlignHCenter
             property bool flipped: false
 
             front: Item {
-                    width: 400
-                    height: 400
+                    width: 600
+                    height: 380
+                    anchors.centerIn:flipable
 
-                    Image {
+                    Rectangle {
                         id: fcard
-                        source: "card.png"
-                        sourceSize: Qt.size(parent.width, parent.height)
-                        smooth: true
-                        visible: false
+                        width:parent.width
+                        height:parent.height
+                        color: "white"
+                        radius: 22.5
+                        anchors.horizontalCenter: parent.horizontalCenter
                     }
 
                     DropShadow {
@@ -47,7 +50,9 @@ ApplicationWindow {
                     Text {
                         id: frontContent
                         text: "Front Content";
+                        font.family:  "Lato"
                         font.pointSize: 13;
+                        lineHeight: 1.2 
                         width: parent.width
                         padding: 30
                         wrapMode: Text.WordWrap
@@ -57,15 +62,17 @@ ApplicationWindow {
                     }
                 }
             back: Item {
-                    width: 400
-                    height: 400
-
-                    Image {
+                    width: 600
+                    height: 380
+                    anchors.centerIn:flipable
+                    
+                    Rectangle {
                         id: bcard
-                        source: "card.png"
-                        sourceSize: Qt.size(parent.width, parent.height)
-                        smooth: true
-                        visible: false
+                        width:parent.width
+                        height:parent.height
+                        color: "white"
+                        radius: 22.5
+                        anchors.horizontalCenter: parent.horizontalCenter
                     }
 
                     DropShadow {
@@ -81,6 +88,7 @@ ApplicationWindow {
                     Text {
                         id: backContent
                         text: "Back Content";
+                        font.family:  "Lato"
                         font.pointSize: 24;
                         color: Material.color(Material.LightBlue)
                         width: parent.width
@@ -115,27 +123,35 @@ ApplicationWindow {
                 onClicked: flipable.flipped = !flipable.flipped
             }
         }
-        Row {
+        RowLayout {
             spacing: 80
-            Layout.alignment:Qt.AlignHCenter
+            Layout.alignment:Qt.AlignHCenter | Qt.AlignBaseline
             Button {
                 text: "Prev"
+                font.family:  "Lato"
                 onClicked: termGenerator.decrementIndex()
             }
+            
+            Label {
+                id: indexLabel 
+                font.family:  "Lato"
+            }
+            
             Button {
                 text: "Next"
+                font.family:  "Lato"
                 onClicked: termGenerator.incrementIndex()
             }
         }
-        Item { Layout.fillHeight: true } 
     }
 
     Connections {
         target: termGenerator
-        function onUpdateCard(front, back) {
+        function onUpdateCard(front, back, index) {
             frontContent.text = front
             flipable.flipped = false
             backContent.text = back
+            indexLabel.text = index
         }
     }
 }

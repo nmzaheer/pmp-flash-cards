@@ -20,7 +20,7 @@ class GlossaryTermGenerator(QObject):
         super().__init__()
         self.index = -1
 
-    updateCard = Signal(str, str, arguments=['front', 'back'])
+    updateCard = Signal(str, str, str, arguments=['front', 'back', 'index'])
 
     @Slot()
     def incrementIndex(self):
@@ -29,7 +29,8 @@ class GlossaryTermGenerator(QObject):
             self.index = 0
         front = glossary_list[self.index][1]
         back = glossary_list[self.index][0]
-        self.updateCard.emit(front, back)
+        idx = f'{self.index + 1} / 664'
+        self.updateCard.emit(front, back, idx)
 
     @Slot()
     def decrementIndex(self):
@@ -38,7 +39,8 @@ class GlossaryTermGenerator(QObject):
             self.index = len(glossary_list) - 1
         front = glossary_list[self.index][1]
         back = glossary_list[self.index][0]
-        self.updateCard.emit(front, back)
+        idx = f'{self.index + 1} / 664'
+        self.updateCard.emit(front, back, idx)
 
 if __name__ == '__main__':
     app = QGuiApplication(sys.argv)
